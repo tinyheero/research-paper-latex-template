@@ -1,0 +1,3 @@
+table_filename	latex_filename	latex_label
+test-tab1.tsv	test-tab1.tex	suptab:test-tab1
+test-tab2.tsv	test-tab2.tex	suptab:test-tab2
